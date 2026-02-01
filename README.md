@@ -1,3 +1,4 @@
+Php is required to run this website on local machine. Run "php -S localhost:8000" and visit localhost:8000 to view website.
 (Copied from assignment details)
 # Features
 
